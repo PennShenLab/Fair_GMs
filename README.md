@@ -25,9 +25,3 @@ The algorithm is implemented in Python.
 
 ### 🔨 Usage
 For reproducibility, we provide [synthetic example](https://github.com/PennShenLab/Fair_GMs/blob/main/Simulation%20Study%20Notebook/Experiment_Synthetic_Data_arxive.ipynb) utilizing the [framework](https://github.com/PennShenLab/Fair_GMs/tree/main/GRAPH_Framework-main).
-
-### 🤝 Acknowledgements
-The authors Zhuoping Zhou, Davoud Ataee Tarzanagh, and Bojian Hou have contributed equally to this paper.
-
-### 📨 Maintainers
-Zhuoping Zhou (zhuopinz@sas.upenn.edu)
